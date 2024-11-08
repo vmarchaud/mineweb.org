@@ -90,21 +90,6 @@
     "repo": "MineWeb/Theme-MineStorm"
   },
   {
-    "name": "Master",
-    "slug": "Master",
-    "free": false,
-    "contact": [
-      {
-        "type": "discord",
-        "value": "Skill#9202"
-      },
-      {
-        "type": "email",
-        "value": "contact@skilldev.be"
-      }
-    ]
-  },
-  {
     "name": "Subtil",
     "slug": "Theme-Subtil",
     "free": true,
